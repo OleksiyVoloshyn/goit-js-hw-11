@@ -1,6 +1,5 @@
 import iziToast from 'izitoast';
 import 'izitoast/dist/css/iziToast.min.css';
-//import { MESSAGES, MESSAGES_BG_COLORS, showInfoMessage } from './js/helpers';
 
 import { getGalleryData } from './js/pixabay-api';
 import { renderGallery } from './js/render-functions';
